@@ -14,13 +14,14 @@ Untuk software yang bakal digunakan gue memilih [Kodi](https://kodi.tv/ "Open So
 * Instalasi Libreelec \(sistem operasi khusus untuk menjalankan Kodi Media Center\)
 * Konfigurasi Umum Kodi
 * Mengoperasikan Kodi dengan Smartphone
-* Mengoperasikan Kodi dengan Remote TV
+* Mengoperasikan Kodi dengan Remote TV **\[ADVANCED\]**
 * Konfigurasi TV Digital \(untuk daerah Jakarta\)
 * Konfigurasi EPG \(Jadwal Acara\) untuk TV Digital
+* Streaming Mivo Live TV **\[ADVANCED\]**
 * Mendengar Radio
 * Bermain Game
 * Konfigurasi Game Controller
-* Nonton Film dan "Sinetron" Streaming \[DANGER\]
+* Nonton Film dan "Sinetron" Streaming **\[DANGER\]**
 
 
 
